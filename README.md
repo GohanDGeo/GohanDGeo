@@ -2,8 +2,12 @@
 Hello there! I'm George, a self-driven software engineer, looking for career opportunities in data science, machine learning engineering, or game development. My interests cover many technological fields, while I always enjoy exploring new technologies and improving my skills and knowledge!
 
 ## 🖥️ Work Experience
-🎲 Rathskellers (2020-Now)
+🎲 **Rathskellers** *(2020-Now)*
 * Providing solutions for automating tasks and enhancing daily workflow for all departments.
 * IT Support
 * Customer Service
 * Translations for game publications
+
+## 🎓 Academic Education
+**Engineer's Degree** (Integrated Master's) @ Aristotle University of Thessaloniki, Department of Electrical and Computer Engineering. _GPA 9.13/10_
+
