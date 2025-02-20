@@ -3,7 +3,7 @@ Hello there! I'm George, a self-driven software engineer, looking for career opp
 
 ## 🖥️ Work Experience
 🎲 **Rathskellers** *(2020-Now)*
-* Providing solutions for automating tasks and enhancing daily workflow for all departments.
+* Providing solutions for automating tasks and enhancing daily workflow for all departments
 * IT Support
 * Customer Service
 * Translations for game publications
