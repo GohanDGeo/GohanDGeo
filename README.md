@@ -1,10 +1,8 @@
 ## Hello there 👋
 
-**GohanDGeo/GohanDGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who I am
+It's me!
 
-Here are some ideas to get you started:
-
-- <a target="blank"><img align="center" src="https://github.com/GohanDGeo/GohanDGeo/blob/main/icons/about-me-icon.png" height="30" /></a> It's me
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
