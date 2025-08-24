@@ -20,6 +20,6 @@ _GPA 9.13/10_
 * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/LWGDSRXTKZVA) (Coursera)
 * [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/W7D4RXGHLULL) (Coursera)
 
-## 📱 Published Projects
+## 🚀 Published Projects
 
-* [Game Life Counter](https://play.google.com/store/apps/details?id=dev.jollytale.gamelifecounter) (Android)
+* [Game Life Counter](https://play.google.com/store/apps/details?id=dev.jollytale.gamelifecounter) (Android 📱)
